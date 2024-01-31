@@ -1,4 +1,3 @@
-# YouTube-Summary
 ## YouTube Video Summarizer
 - 📹 Summarize YouTube videos based on the provided video URL.
 - 📋 Accepts one argument: YouTube video URL.
